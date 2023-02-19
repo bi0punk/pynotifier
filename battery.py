@@ -7,7 +7,8 @@ import time
 
 
 def mypass():
-        mypass = 'abc1q'
+        #AQUI TAMBIEN PODEMOS OBTENER LA CONTRASEÑA DESDE UN ARCHICO CIFRADO O CON PERMISOS ESPECIFICOS
+        mypass = 'YOUR TOKEN OR ROOT PASSSWORD'
         return mypass
 
 def command(cmd):
@@ -17,7 +18,7 @@ def command(cmd):
         return text
 
 def escribe_info ():
-        with open("example.txt", "w") as f:
+        with open("battery-data.txt", "w") as f:
                 f.write((text))
         
 def leer_informacion():

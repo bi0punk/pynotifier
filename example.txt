@@ -1,0 +1,15 @@
+Battery 0: Discharging, 68%, discharging at zero rate - will never fully discharge.
+Battery 0: design capacity 1932 mAh, last full capacity 1932 mAh = 100%
+Adapter 0: off-line
+Thermal 0: ok, 50.0 degrees C
+Thermal 0: trip point 0 switches to mode critical at temperature 255.0 degrees C
+Thermal 0: trip point 1 switches to mode hot at temperature 105.0 degrees C
+Thermal 0: trip point 2 switches to mode passive at temperature 98.0 degrees C
+Cooling 0: Processor 0 of 10
+Cooling 1: Processor 0 of 10
+Cooling 2: Processor 0 of 10
+Cooling 3: Processor 0 of 10
+Cooling 4: Processor 0 of 10
+Cooling 5: Processor 0 of 10
+Cooling 6: Processor 0 of 10
+Cooling 7: Processor 0 of 10
